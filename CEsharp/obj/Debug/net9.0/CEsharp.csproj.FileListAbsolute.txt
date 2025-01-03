@@ -1,0 +1,13 @@
+C:\Users\14798\Desktop\CEsharp\CEsharp\bin\Debug\net9.0\CEsharp.deps.json
+C:\Users\14798\Desktop\CEsharp\CEsharp\bin\Debug\net9.0\CEsharp.dll
+C:\Users\14798\Desktop\CEsharp\CEsharp\bin\Debug\net9.0\CEsharp.pdb
+C:\Users\14798\Desktop\CEsharp\CEsharp\obj\Debug\net9.0\CEsharp.csproj.AssemblyReference.cache
+C:\Users\14798\Desktop\CEsharp\CEsharp\obj\Debug\net9.0\CEsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14798\Desktop\CEsharp\CEsharp\obj\Debug\net9.0\CEsharp.AssemblyInfoInputs.cache
+C:\Users\14798\Desktop\CEsharp\CEsharp\obj\Debug\net9.0\CEsharp.AssemblyInfo.cs
+C:\Users\14798\Desktop\CEsharp\CEsharp\obj\Debug\net9.0\CEsharp.csproj.CoreCompileInputs.cache
+C:\Users\14798\Desktop\CEsharp\CEsharp\obj\Debug\net9.0\XamlC.stamp
+C:\Users\14798\Desktop\CEsharp\CEsharp\obj\Debug\net9.0\CEsharp.dll
+C:\Users\14798\Desktop\CEsharp\CEsharp\obj\Debug\net9.0\refint\CEsharp.dll
+C:\Users\14798\Desktop\CEsharp\CEsharp\obj\Debug\net9.0\CEsharp.pdb
+C:\Users\14798\Desktop\CEsharp\CEsharp\obj\Debug\net9.0\ref\CEsharp.dll

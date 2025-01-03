@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:ViewModel="clr-namespace:CEsharp.ViewModels"
+             xmlns:Model="clr-namespace:CEsharp.Model.DeepRock.View"
+             x:Class="CEsharp.View.DeepRock"
+             x:DataType="ViewModel:DeepRockCheat"
+             Title="DeepRock">
+
+    <VerticalStackLayout >
+        <HorizontalStackLayout>
+            <Border x:Name="AnimatedButton2" WidthRequest="30" 
+                    HeightRequest="30" BackgroundColor="LightBlue"   
+                   AbsoluteLayout.LayoutBounds="0.5, 0.5, AutoSize, AutoSize" 
+                   AbsoluteLayout.LayoutFlags="PositionProportional">
+                <Border.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="OnButtonTapped"/>
+                </Border.GestureRecognizers>
+                <Border.Clip>
+                    <EllipseGeometry   Center="15,15" RadiusX="10" RadiusY="10"/>
+                </Border.Clip>
+            </Border>
+            <Label IsEnabled="{Binding IsEnable}" Text="{Binding  InfoMsg}"  WidthRequest="300"  HeightRequest="30" HorizontalOptions="Center" VerticalTextAlignment="Center"/>
+        </HorizontalStackLayout>
+        <CollectionView ItemsSource="{Binding FuncList}" IsVisible="{Binding IsEnable}"  >
+            <CollectionView.ItemTemplate >
+                <DataTemplate x:DataType="Model:NodeInfo">
+                    <HorizontalStackLayout>
+                        <Border x:Name="AnimatedButton222" WidthRequest="30" HeightRequest="30" BackgroundColor="LightBlue" 
+                                AbsoluteLayout.LayoutBounds="0.5, 0.5, AutoSize, AutoSize" AbsoluteLayout.LayoutFlags="PositionProportional">
+                            <Border.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="OnButtonTappedFunc"/>
+                            </Border.GestureRecognizers>
+                            <Border.Clip>
+                                <EllipseGeometry Center="15,15" RadiusX="10" RadiusY="10"/>
+                            </Border.Clip>
+                        </Border>
+                        <Label IsEnabled="{Binding IsVisable}" IsVisible="{Binding IsVisable}"  Text="{Binding  Info }" WidthRequest="300" HeightRequest="30" HorizontalOptions="Center" VerticalTextAlignment="Center"/>
+                    </HorizontalStackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </VerticalStackLayout>
+
+
+</ContentPage>

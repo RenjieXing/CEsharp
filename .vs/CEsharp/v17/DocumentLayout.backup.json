@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\code\\CEsharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC077404-539E-4ACB-9180-090744469E82}|CEsharp\\CEsharp.csproj|d:\\code\\cesharp\\cesharp\\viewmodels\\deeprockcheat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC077404-539E-4ACB-9180-090744469E82}|CEsharp\\CEsharp.csproj|solutionrelative:cesharp\\viewmodels\\deeprockcheat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EC077404-539E-4ACB-9180-090744469E82}|CEsharp\\CEsharp.csproj|d:\\code\\cesharp\\cesharp\\view\\deeprock.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{EC077404-539E-4ACB-9180-090744469E82}|CEsharp\\CEsharp.csproj|solutionrelative:cesharp\\view\\deeprock.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EC077404-539E-4ACB-9180-090744469E82}|CEsharp\\CEsharp.csproj|d:\\code\\cesharp\\cesharp\\view\\deeprock.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC077404-539E-4ACB-9180-090744469E82}|CEsharp\\CEsharp.csproj|solutionrelative:cesharp\\view\\deeprock.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC077404-539E-4ACB-9180-090744469E82}|CEsharp\\CEsharp.csproj|d:\\code\\cesharp\\cesharp\\viewmodels\\deeprockcheat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC077404-539E-4ACB-9180-090744469E82}|CEsharp\\CEsharp.csproj|solutionrelative:cesharp\\viewmodels\\deeprockcheat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\code\\CEsharp\\AppShell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +50,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "DeepRock.xaml.cs",
               "DocumentMoniker": "D:\\code\\CEsharp\\CEsharp\\View\\DeepRock.xaml.cs",
               "RelativeDocumentMoniker": "CEsharp\\View\\DeepRock.xaml.cs",
@@ -63,26 +63,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "DeepRockCheat.cs",
               "DocumentMoniker": "D:\\code\\CEsharp\\CEsharp\\ViewModels\\DeepRockCheat.cs",
               "RelativeDocumentMoniker": "CEsharp\\ViewModels\\DeepRockCheat.cs",
               "ToolTip": "D:\\code\\CEsharp\\CEsharp\\ViewModels\\DeepRockCheat.cs",
               "RelativeToolTip": "CEsharp\\ViewModels\\DeepRockCheat.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAuwHEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwHEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T05:59:18.5Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "DeepRock.xaml",
               "DocumentMoniker": "D:\\code\\CEsharp\\CEsharp\\View\\DeepRock.xaml",
               "RelativeDocumentMoniker": "CEsharp\\View\\DeepRock.xaml",
               "ToolTip": "D:\\code\\CEsharp\\CEsharp\\View\\DeepRock.xaml",
               "RelativeToolTip": "CEsharp\\View\\DeepRock.xaml",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAuwBsAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowAkAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-01-03T05:59:14.36Z",
               "EditorCaption": ""

@@ -80,8 +80,6 @@ public partial class DeepRockCheat : ObservableObject
         {
             InfoMsg = "未检测到RockDeep,请重试";
         }
-
-
     }
 
     /// <summary>

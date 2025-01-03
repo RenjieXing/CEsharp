@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CEsharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89b32156649600fd2e377ea2c2905d91a9088fe1")]
 [assembly: System.Reflection.AssemblyProductAttribute("CEsharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CEsharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

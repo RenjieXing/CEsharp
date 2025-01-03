@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\14798\\Desktop\\CEsharp\\CEsharp\\CEsharp.csproj": {}
+    "D:\\code\\CEsharp\\CEsharp\\CEsharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\14798\\Desktop\\CEsharp\\CEsharp\\CEsharp.csproj": {
+    "D:\\code\\CEsharp\\CEsharp\\CEsharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\14798\\Desktop\\CEsharp\\CEsharp\\CEsharp.csproj",
+        "projectUniqueName": "D:\\code\\CEsharp\\CEsharp\\CEsharp.csproj",
         "projectName": "CEsharp",
-        "projectPath": "C:\\Users\\14798\\Desktop\\CEsharp\\CEsharp\\CEsharp.csproj",
+        "projectPath": "D:\\code\\CEsharp\\CEsharp\\CEsharp.csproj",
         "packagesPath": "C:\\Users\\14798\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\14798\\Desktop\\CEsharp\\CEsharp\\obj\\",
+        "outputPath": "D:\\code\\CEsharp\\CEsharp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\VSData\\SDK\\NuGetPackages"

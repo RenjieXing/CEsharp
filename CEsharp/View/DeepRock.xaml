@@ -7,6 +7,7 @@
              x:DataType="ViewModel:DeepRockCheat"
              Title="DeepRock">
 
+  
     <VerticalStackLayout >
         <HorizontalStackLayout>
             <Border x:Name="AnimatedButton2" WidthRequest="30" 
@@ -22,7 +23,14 @@
             </Border>
             <Label IsEnabled="{Binding IsEnable}" Text="{Binding  InfoMsg}"  WidthRequest="300"  HeightRequest="30" HorizontalOptions="Center" VerticalTextAlignment="Center"/>
         </HorizontalStackLayout>
-        <CollectionView ItemsSource="{Binding FuncList}" IsVisible="{Binding IsEnable}"  >
+
+        <Border  BackgroundColor="LightBlue"  HorizontalOptions="Fill" HeightRequest="30"   StrokeThickness="0"  StrokeShape="RoundRectangle 60,0,0,60"  >
+            <Image Source="dotnet_bot.png" Aspect="AspectFill"  >
+            </Image>
+            
+            
+        </Border>
+        <CollectionView ItemsSource="{Binding FuncList}" IsEnabled="{Binding IsEnable}"  >
             <CollectionView.ItemTemplate >
                 <DataTemplate x:DataType="Model:NodeInfo">
                     <HorizontalStackLayout>
@@ -35,11 +43,12 @@
                                 <EllipseGeometry Center="15,15" RadiusX="10" RadiusY="10"/>
                             </Border.Clip>
                         </Border>
-                        <Label IsEnabled="{Binding IsVisable}" IsVisible="{Binding IsVisable}"  Text="{Binding  Info }" WidthRequest="300" HeightRequest="30" HorizontalOptions="Center" VerticalTextAlignment="Center"/>
+                        <Label IsEnabled="{Binding IsVisable}"  Text="{Binding  Info }" WidthRequest="300" HeightRequest="30" HorizontalOptions="Center" VerticalTextAlignment="Center"/>
                     </HorizontalStackLayout>
                 </DataTemplate>
             </CollectionView.ItemTemplate>
         </CollectionView>
+       
     </VerticalStackLayout>
 
 

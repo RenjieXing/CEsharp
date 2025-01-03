@@ -4399,11 +4399,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\14798\\Desktop\\CEsharp\\CEsharp.WinUI\\CEsharp.WinUI.csproj",
+      "projectUniqueName": "D:\\code\\CEsharp\\CEsharp.WinUI\\CEsharp.WinUI.csproj",
       "projectName": "CEsharp.WinUI",
-      "projectPath": "C:\\Users\\14798\\Desktop\\CEsharp\\CEsharp.WinUI\\CEsharp.WinUI.csproj",
+      "projectPath": "D:\\code\\CEsharp\\CEsharp.WinUI\\CEsharp.WinUI.csproj",
       "packagesPath": "C:\\Users\\14798\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\14798\\Desktop\\CEsharp\\CEsharp.WinUI\\obj\\",
+      "outputPath": "D:\\code\\CEsharp\\CEsharp.WinUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\VSData\\SDK\\NuGetPackages"
@@ -4425,8 +4425,8 @@
         "net9.0-windows10.0.19041": {
           "targetAlias": "net9.0-windows10.0.19041.0",
           "projectReferences": {
-            "C:\\Users\\14798\\Desktop\\CEsharp\\CEsharp\\CEsharp.csproj": {
-              "projectPath": "C:\\Users\\14798\\Desktop\\CEsharp\\CEsharp\\CEsharp.csproj"
+            "D:\\code\\CEsharp\\CEsharp\\CEsharp.csproj": {
+              "projectPath": "D:\\code\\CEsharp\\CEsharp\\CEsharp.csproj"
             }
           }
         }

@@ -40,6 +40,21 @@ public partial class DeepRock : ContentPage
     }
 
 
+
+    public class WidthPercentageConverter : IValueConverter
+    {
+        public object Convert(object value, Type targetType, object parameter, System.Globalization.CultureInfo culture)
+        {
+            if (value is double pageWidth)
+            {
+                return pageWidth * 0.2; // 转换为20%的宽度
+            }
+            return 0;
+        }
+        public object ConvertBack(object value, Type targetType, object parameter, System.Globalization.CultureInfo culture) {
+            throw new NotImplementedException(); }
+    }
+
 }
 public static class AnimationExtensions
 {

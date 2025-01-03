@@ -11,3 +11,17 @@ C:\Users\14798\Desktop\CEsharp\CEsharp\obj\Debug\net9.0\CEsharp.dll
 C:\Users\14798\Desktop\CEsharp\CEsharp\obj\Debug\net9.0\refint\CEsharp.dll
 C:\Users\14798\Desktop\CEsharp\CEsharp\obj\Debug\net9.0\CEsharp.pdb
 C:\Users\14798\Desktop\CEsharp\CEsharp\obj\Debug\net9.0\ref\CEsharp.dll
+D:\code\CEsharp\CEsharp\bin\Debug\net9.0\CEsharp.deps.json
+D:\code\CEsharp\CEsharp\bin\Debug\net9.0\CEsharp.dll
+D:\code\CEsharp\CEsharp\bin\Debug\net9.0\CEsharp.pdb
+D:\code\CEsharp\CEsharp\obj\Debug\net9.0\CEsharp.csproj.AssemblyReference.cache
+D:\code\CEsharp\CEsharp\obj\Debug\net9.0\CEsharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\CEsharp\CEsharp\obj\Debug\net9.0\CEsharp.AssemblyInfoInputs.cache
+D:\code\CEsharp\CEsharp\obj\Debug\net9.0\CEsharp.AssemblyInfo.cs
+D:\code\CEsharp\CEsharp\obj\Debug\net9.0\CEsharp.csproj.CoreCompileInputs.cache
+D:\code\CEsharp\CEsharp\obj\Debug\net9.0\CEsharp.sourcelink.json
+D:\code\CEsharp\CEsharp\obj\Debug\net9.0\XamlC.stamp
+D:\code\CEsharp\CEsharp\obj\Debug\net9.0\CEsharp.dll
+D:\code\CEsharp\CEsharp\obj\Debug\net9.0\refint\CEsharp.dll
+D:\code\CEsharp\CEsharp\obj\Debug\net9.0\CEsharp.pdb
+D:\code\CEsharp\CEsharp\obj\Debug\net9.0\ref\CEsharp.dll

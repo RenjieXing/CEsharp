@@ -25,12 +25,10 @@
         </HorizontalStackLayout>
 
         <Border  BackgroundColor="LightBlue"  HorizontalOptions="Fill" HeightRequest="30"   StrokeThickness="0"  StrokeShape="RoundRectangle 60,0,0,60"  >
-            <Image Source="dotnet_bot.png" Aspect="AspectFill"  >
+            <Image Source="dotnet_bot.png">
             </Image>
-            
-            
         </Border>
-        <CollectionView ItemsSource="{Binding FuncList}" IsEnabled="{Binding IsEnable}"  >
+        <CollectionView ItemsSource="{Binding FuncList}" IsVisible="{Binding IsEnable}"  >
             <CollectionView.ItemTemplate >
                 <DataTemplate x:DataType="Model:NodeInfo">
                     <HorizontalStackLayout>

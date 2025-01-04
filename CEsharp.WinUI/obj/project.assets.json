@@ -4393,23 +4393,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\14798\\.nuget\\packages\\": {},
-    "D:\\VSData\\SDK\\NuGetPackages": {}
+    "C:\\Users\\BOSBSO\\.nuget\\packages\\": {},
+    "D:\\VSshared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\code\\CEsharp\\CEsharp.WinUI\\CEsharp.WinUI.csproj",
+      "projectUniqueName": "C:\\Users\\BOSBSO\\OneDrive\\文档\\GitHub\\CEsharp\\CEsharp.WinUI\\CEsharp.WinUI.csproj",
       "projectName": "CEsharp.WinUI",
-      "projectPath": "D:\\code\\CEsharp\\CEsharp.WinUI\\CEsharp.WinUI.csproj",
-      "packagesPath": "C:\\Users\\14798\\.nuget\\packages\\",
-      "outputPath": "D:\\code\\CEsharp\\CEsharp.WinUI\\obj\\",
+      "projectPath": "C:\\Users\\BOSBSO\\OneDrive\\文档\\GitHub\\CEsharp\\CEsharp.WinUI\\CEsharp.WinUI.csproj",
+      "packagesPath": "C:\\Users\\BOSBSO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\BOSBSO\\OneDrive\\文档\\GitHub\\CEsharp\\CEsharp.WinUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\VSData\\SDK\\NuGetPackages"
+        "D:\\VSshared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\14798\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\BOSBSO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4425,8 +4425,8 @@
         "net9.0-windows10.0.19041": {
           "targetAlias": "net9.0-windows10.0.19041.0",
           "projectReferences": {
-            "D:\\code\\CEsharp\\CEsharp\\CEsharp.csproj": {
-              "projectPath": "D:\\code\\CEsharp\\CEsharp\\CEsharp.csproj"
+            "C:\\Users\\BOSBSO\\OneDrive\\文档\\GitHub\\CEsharp\\CEsharp\\CEsharp.csproj": {
+              "projectPath": "C:\\Users\\BOSBSO\\OneDrive\\文档\\GitHub\\CEsharp\\CEsharp\\CEsharp.csproj"
             }
           }
         }
@@ -4478,6 +4478,10 @@
           },
           {
             "name": "Microsoft.AspNetCore.App.Runtime.win-x86",
+            "version": "[9.0.0, 9.0.0]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Crossgen2.win-x64",
             "version": "[9.0.0, 9.0.0]"
           },
           {

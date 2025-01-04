@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CEsharp.WinUI</id>
+    <version>1.0.0</version>
+    <authors>CEsharp.WinUI</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="84323eefcce98fd85a5553a3d3c5a2fc049b38d0" />
+    <dependencies>
+      <group targetFramework="net9.0-windows10.0.19041">
+        <dependency id="CEsharp" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Logging.Debug" version="9.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Maui.Controls" version="9.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/net9.0-windows10.0.19041/Assets/AboutWinUIAssets.txt" buildAction="Content" />
+      <files include="any/net9.0-windows10.0.19041/Assets/Images/AboutWinUIImages.txt" buildAction="Content" />
+      <files include="any/net9.0-windows10.0.19041/Assets/Images/dotnet_bot_devices.scale-100.png" buildAction="Content" />
+      <files include="any/net9.0-windows10.0.19041/Assets/Images/dotnet_bot_devices.scale-125.png" buildAction="Content" />
+      <files include="any/net9.0-windows10.0.19041/Assets/Images/dotnet_bot_devices.scale-150.png" buildAction="Content" />
+      <files include="any/net9.0-windows10.0.19041/Assets/Images/dotnet_bot_devices.scale-200.png" buildAction="Content" />
+      <files include="any/net9.0-windows10.0.19041/Assets/Images/dotnet_bot_devices.scale-400.png" buildAction="Content" />
+      <files include="any/net9.0-windows10.0.19041/Assets/LockScreenLogo.scale-200.png" buildAction="Content" />
+      <files include="any/net9.0-windows10.0.19041/Assets/SplashScreen.scale-200.png" buildAction="Content" />
+      <files include="any/net9.0-windows10.0.19041/Assets/Square150x150Logo.scale-200.png" buildAction="Content" />
+      <files include="any/net9.0-windows10.0.19041/Assets/Square44x44Logo.scale-200.png" buildAction="Content" />
+      <files include="any/net9.0-windows10.0.19041/Assets/Square44x44Logo.targetsize-24_altform-unplated.png" buildAction="Content" />
+      <files include="any/net9.0-windows10.0.19041/Assets/StoreLogo.png" buildAction="Content" />
+      <files include="any/net9.0-windows10.0.19041/Assets/Wide310x150Logo.scale-200.png" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\BOSBSO\OneDrive\文档\GitHub\CEsharp\CEsharp.WinUI\bin\x64\Release\net9.0-windows10.0.19041.0\win10-x64\CEsharp.WinUI.runtimeconfig.json" target="lib\net9.0-windows10.0.19041\CEsharp.WinUI.runtimeconfig.json" />
+    <file src="C:\Users\BOSBSO\OneDrive\文档\GitHub\CEsharp\CEsharp.WinUI\bin\x64\Release\net9.0-windows10.0.19041.0\win10-x64\CEsharp.WinUI.dll" target="lib\net9.0-windows10.0.19041\CEsharp.WinUI.dll" />
+    <file src="C:\Users\BOSBSO\OneDrive\文档\GitHub\CEsharp\CEsharp.WinUI\Assets\AboutWinUIAssets.txt" target="content\Assets\AboutWinUIAssets.txt" />
+    <file src="C:\Users\BOSBSO\OneDrive\文档\GitHub\CEsharp\CEsharp.WinUI\Assets\AboutWinUIAssets.txt" target="contentFiles\any\net9.0-windows10.0.19041\Assets\AboutWinUIAssets.txt" />
+    <file src="C:\Users\BOSBSO\OneDrive\文档\GitHub\CEsharp\CEsharp.WinUI\Assets\Images\AboutWinUIImages.txt" target="content\Assets\Images\AboutWinUIImages.txt" />
+    <file src="C:\Users\BOSBSO\OneDrive\文档\GitHub\CEsharp\CEsharp.WinUI\Assets\Images\AboutWinUIImages.txt" target="contentFiles\any\net9.0-windows10.0.19041\Assets\Images\AboutWinUIImages.txt" />
+    <file src="C:\Users\BOSBSO\OneDrive\文档\GitHub\CEsharp\CEsharp.WinUI\Assets\Images\dotnet_bot_devices.scale-100.png" target="content\Assets\Images\dotnet_bot_devices.scale-100.png" />
+    <file src="C:\Users\BOSBSO\OneDrive\文档\GitHub\CEsharp\CEsharp.WinUI\Assets\Images\dotnet_bot_devices.scale-100.png" target="contentFiles\any\net9.0-windows10.0.19041\Assets\Images\dotnet_bot_devices.scale-100.png" />
+    <file src="C:\Users\BOSBSO\OneDrive\文档\GitHub\CEsharp\CEsharp.WinUI\Assets\Images\dotnet_bot_devices.scale-125.png" target="content\Assets\Images\dotnet_bot_devices.scale-125.png" />
+    <file src="C:\Users\BOSBSO\OneDrive\文档\GitHub\CEsharp\CEsharp.WinUI\Assets\Images\dotnet_bot_devices.scale-125.png" target="contentFiles\any\net9.0-windows10.0.19041\Assets\Images\dotnet_bot_devices.scale-125.png" />
+    <file src="C:\Users\BOSBSO\OneDrive\文档\GitHub\CEsharp\CEsharp.WinUI\Assets\Images\dotnet_bot_devices.scale-150.png" target="content\Assets\Images\dotnet_bot_devices.scale-150.png" />
+    <file src="C:\Users\BOSBSO\OneDrive\文档\GitHub\CEsharp\CEsharp.WinUI\Assets\Images\dotnet_bot_devices.scale-150.png" target="contentFiles\any\net9.0-windows10.0.19041\Assets\Images\dotnet_bot_devices.scale-150.png" />
+    <file src="C:\Users\BOSBSO\OneDrive\文档\GitHub\CEsharp\CEsharp.WinUI\Assets\Images\dotnet_bot_devices.scale-200.png" target="content\Assets\Images\dotnet_bot_devices.scale-200.png" />
+    <file src="C:\Users\BOSBSO\OneDrive\文档\GitHub\CEsharp\CEsharp.WinUI\Assets\Images\dotnet_bot_devices.scale-200.png" target="contentFiles\any\net9.0-windows10.0.19041\Assets\Images\dotnet_bot_devices.scale-200.png" />
+    <file src="C:\Users\BOSBSO\OneDrive\文档\GitHub\CEsharp\CEsharp.WinUI\Assets\Images\dotnet_bot_devices.scale-400.png" target="content\Assets\Images\dotnet_bot_devices.scale-400.png" />
+    <file src="C:\Users\BOSBSO\OneDrive\文档\GitHub\CEsharp\CEsharp.WinUI\Assets\Images\dotnet_bot_devices.scale-400.png" target="contentFiles\any\net9.0-windows10.0.19041\Assets\Images\dotnet_bot_devices.scale-400.png" />
+    <file src="C:\Users\BOSBSO\OneDrive\文档\GitHub\CEsharp\CEsharp.WinUI\Assets\LockScreenLogo.scale-200.png" target="content\Assets\LockScreenLogo.scale-200.png" />
+    <file src="C:\Users\BOSBSO\OneDrive\文档\GitHub\CEsharp\CEsharp.WinUI\Assets\LockScreenLogo.scale-200.png" target="contentFiles\any\net9.0-windows10.0.19041\Assets\LockScreenLogo.scale-200.png" />
+    <file src="C:\Users\BOSBSO\OneDrive\文档\GitHub\CEsharp\CEsharp.WinUI\Assets\SplashScreen.scale-200.png" target="content\Assets\SplashScreen.scale-200.png" />
+    <file src="C:\Users\BOSBSO\OneDrive\文档\GitHub\CEsharp\CEsharp.WinUI\Assets\SplashScreen.scale-200.png" target="contentFiles\any\net9.0-windows10.0.19041\Assets\SplashScreen.scale-200.png" />
+    <file src="C:\Users\BOSBSO\OneDrive\文档\GitHub\CEsharp\CEsharp.WinUI\Assets\Square150x150Logo.scale-200.png" target="content\Assets\Square150x150Logo.scale-200.png" />
+    <file src="C:\Users\BOSBSO\OneDrive\文档\GitHub\CEsharp\CEsharp.WinUI\Assets\Square150x150Logo.scale-200.png" target="contentFiles\any\net9.0-windows10.0.19041\Assets\Square150x150Logo.scale-200.png" />
+    <file src="C:\Users\BOSBSO\OneDrive\文档\GitHub\CEsharp\CEsharp.WinUI\Assets\Square44x44Logo.scale-200.png" target="content\Assets\Square44x44Logo.scale-200.png" />
+    <file src="C:\Users\BOSBSO\OneDrive\文档\GitHub\CEsharp\CEsharp.WinUI\Assets\Square44x44Logo.scale-200.png" target="contentFiles\any\net9.0-windows10.0.19041\Assets\Square44x44Logo.scale-200.png" />
+    <file src="C:\Users\BOSBSO\OneDrive\文档\GitHub\CEsharp\CEsharp.WinUI\Assets\Square44x44Logo.targetsize-24_altform-unplated.png" target="content\Assets\Square44x44Logo.targetsize-24_altform-unplated.png" />
+    <file src="C:\Users\BOSBSO\OneDrive\文档\GitHub\CEsharp\CEsharp.WinUI\Assets\Square44x44Logo.targetsize-24_altform-unplated.png" target="contentFiles\any\net9.0-windows10.0.19041\Assets\Square44x44Logo.targetsize-24_altform-unplated.png" />
+    <file src="C:\Users\BOSBSO\OneDrive\文档\GitHub\CEsharp\CEsharp.WinUI\Assets\StoreLogo.png" target="content\Assets\StoreLogo.png" />
+    <file src="C:\Users\BOSBSO\OneDrive\文档\GitHub\CEsharp\CEsharp.WinUI\Assets\StoreLogo.png" target="contentFiles\any\net9.0-windows10.0.19041\Assets\StoreLogo.png" />
+    <file src="C:\Users\BOSBSO\OneDrive\文档\GitHub\CEsharp\CEsharp.WinUI\Assets\Wide310x150Logo.scale-200.png" target="content\Assets\Wide310x150Logo.scale-200.png" />
+    <file src="C:\Users\BOSBSO\OneDrive\文档\GitHub\CEsharp\CEsharp.WinUI\Assets\Wide310x150Logo.scale-200.png" target="contentFiles\any\net9.0-windows10.0.19041\Assets\Wide310x150Logo.scale-200.png" />
+  </files>
+</package>

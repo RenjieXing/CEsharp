@@ -29,13 +29,13 @@ public partial class DeepRockCheat : ObservableObject
         },
         [2] = new DeepRockAddressRecord()
         {
-            Codelenth = 1,
+            Codelenth = 2,
             Name = "无限手雷",
             offset = 0x16A00DE,
         },
         [3] = new DeepRockAddressRecord()
         {
-            Codelenth = 1,
+            Codelenth = 2,
             Name = "无限荧光棒",
             offset = 0x13BD5BD,
         },
@@ -45,6 +45,21 @@ public partial class DeepRockCheat : ObservableObject
             Name = "超载失效",
             offset = 0x16C8DDE,
         },
+        [5] = new DeepRockAddressRecord()
+        {
+            Codelenth = 2,
+            Name = "钻机手高爆雷无限",
+            offset = 0x167126E,
+        },
+        [6] = new DeepRockAddressRecord()
+        {
+            Codelenth = 8,
+            Name = "钻机手无限钻机",
+            offset = 0x16A8EAA,
+        },
+
+
+
 
     };
 
@@ -88,19 +103,20 @@ public partial class DeepRockCheat : ObservableObject
     /// <param name="deepRockAddressRecord"></param>
     public bool Excute(NodeInfo deepRockAddressRecord)
     {
-        
+
         if (IsEnable)
         {
             if (CommonClass.ReplaceNop(CommonClass.FindBaseAddress(processName), codeaddressInfo[deepRockAddressRecord.Index].offset, codeaddressInfo[deepRockAddressRecord.Index].Codelenth))
             {
-                deepRockAddressRecord.IsRunning= true;
+                deepRockAddressRecord.IsRunning = true;
                 deepRockAddressRecord.Info = codeaddressInfo[deepRockAddressRecord.Index].rMsg;
                 return true;
             }
-            else {
+            else
+            {
                 deepRockAddressRecord.IsRunning = false;
                 deepRockAddressRecord.Info = codeaddressInfo[deepRockAddressRecord.Index].eMsg;
-            } ;
+            };
         }
         return false;
     }

@@ -25,3 +25,17 @@ D:\code\CEsharp\CEsharp\obj\Debug\net9.0\CEsharp.dll
 D:\code\CEsharp\CEsharp\obj\Debug\net9.0\refint\CEsharp.dll
 D:\code\CEsharp\CEsharp\obj\Debug\net9.0\CEsharp.pdb
 D:\code\CEsharp\CEsharp\obj\Debug\net9.0\ref\CEsharp.dll
+C:\Users\BOSBSO\OneDrive\文档\GitHub\CEsharp\CEsharp\bin\Debug\net9.0\CEsharp.deps.json
+C:\Users\BOSBSO\OneDrive\文档\GitHub\CEsharp\CEsharp\bin\Debug\net9.0\CEsharp.dll
+C:\Users\BOSBSO\OneDrive\文档\GitHub\CEsharp\CEsharp\bin\Debug\net9.0\CEsharp.pdb
+C:\Users\BOSBSO\OneDrive\文档\GitHub\CEsharp\CEsharp\obj\Debug\net9.0\CEsharp.csproj.AssemblyReference.cache
+C:\Users\BOSBSO\OneDrive\文档\GitHub\CEsharp\CEsharp\obj\Debug\net9.0\CEsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BOSBSO\OneDrive\文档\GitHub\CEsharp\CEsharp\obj\Debug\net9.0\CEsharp.AssemblyInfoInputs.cache
+C:\Users\BOSBSO\OneDrive\文档\GitHub\CEsharp\CEsharp\obj\Debug\net9.0\CEsharp.AssemblyInfo.cs
+C:\Users\BOSBSO\OneDrive\文档\GitHub\CEsharp\CEsharp\obj\Debug\net9.0\CEsharp.csproj.CoreCompileInputs.cache
+C:\Users\BOSBSO\OneDrive\文档\GitHub\CEsharp\CEsharp\obj\Debug\net9.0\CEsharp.sourcelink.json
+C:\Users\BOSBSO\OneDrive\文档\GitHub\CEsharp\CEsharp\obj\Debug\net9.0\XamlC.stamp
+C:\Users\BOSBSO\OneDrive\文档\GitHub\CEsharp\CEsharp\obj\Debug\net9.0\CEsharp.dll
+C:\Users\BOSBSO\OneDrive\文档\GitHub\CEsharp\CEsharp\obj\Debug\net9.0\refint\CEsharp.dll
+C:\Users\BOSBSO\OneDrive\文档\GitHub\CEsharp\CEsharp\obj\Debug\net9.0\CEsharp.pdb
+C:\Users\BOSBSO\OneDrive\文档\GitHub\CEsharp\CEsharp\obj\Debug\net9.0\ref\CEsharp.dll

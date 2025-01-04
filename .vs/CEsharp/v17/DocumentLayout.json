@@ -1,34 +1,65 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\code\\CEsharp\\",
+  "WorkspaceRootPath": "C:\\Users\\BOSBSO\\OneDrive\\\u6587\u6863\\GitHub\\CEsharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC077404-539E-4ACB-9180-090744469E82}|CEsharp\\CEsharp.csproj|d:\\code\\cesharp\\cesharp\\viewmodels\\deeprockcheat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EC077404-539E-4ACB-9180-090744469E82}|CEsharp\\CEsharp.csproj|c:\\users\\bosbso\\onedrive\\\u6587\u6863\\github\\cesharp\\cesharp\\cesharp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EC077404-539E-4ACB-9180-090744469E82}|CEsharp\\CEsharp.csproj|solutionrelative:cesharp\\cesharp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D572C6-FED8-499D-910F-8F28721A6F2F}|CEsharp.WinUI\\CEsharp.WinUI.csproj|c:\\users\\bosbso\\onedrive\\\u6587\u6863\\github\\cesharp\\cesharp.winui\\cesharp.winui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{84D572C6-FED8-499D-910F-8F28721A6F2F}|CEsharp.WinUI\\CEsharp.WinUI.csproj|solutionrelative:cesharp.winui\\cesharp.winui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D572C6-FED8-499D-910F-8F28721A6F2F}|CEsharp.WinUI\\CEsharp.WinUI.csproj|c:\\users\\bosbso\\onedrive\\\u6587\u6863\\github\\cesharp\\cesharp.winui\\package.appxmanifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{84D572C6-FED8-499D-910F-8F28721A6F2F}|CEsharp.WinUI\\CEsharp.WinUI.csproj|solutionrelative:cesharp.winui\\package.appxmanifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D572C6-FED8-499D-910F-8F28721A6F2F}|CEsharp.WinUI\\CEsharp.WinUI.csproj|c:\\users\\bosbso\\onedrive\\\u6587\u6863\\github\\cesharp\\cesharp.winui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D572C6-FED8-499D-910F-8F28721A6F2F}|CEsharp.WinUI\\CEsharp.WinUI.csproj|solutionrelative:cesharp.winui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D572C6-FED8-499D-910F-8F28721A6F2F}|CEsharp.WinUI\\CEsharp.WinUI.csproj|c:\\users\\bosbso\\onedrive\\\u6587\u6863\\github\\cesharp\\cesharp.winui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D572C6-FED8-499D-910F-8F28721A6F2F}|CEsharp.WinUI\\CEsharp.WinUI.csproj|solutionrelative:cesharp.winui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D572C6-FED8-499D-910F-8F28721A6F2F}|CEsharp.WinUI\\CEsharp.WinUI.csproj|c:\\users\\bosbso\\onedrive\\\u6587\u6863\\github\\cesharp\\cesharp.winui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{84D572C6-FED8-499D-910F-8F28721A6F2F}|CEsharp.WinUI\\CEsharp.WinUI.csproj|solutionrelative:cesharp.winui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D572C6-FED8-499D-910F-8F28721A6F2F}|CEsharp.WinUI\\CEsharp.WinUI.csproj|c:\\users\\bosbso\\onedrive\\\u6587\u6863\\github\\cesharp\\cesharp.winui\\assets\\square44x44logo.scale-200.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{84D572C6-FED8-499D-910F-8F28721A6F2F}|CEsharp.WinUI\\CEsharp.WinUI.csproj|solutionrelative:cesharp.winui\\assets\\square44x44logo.scale-200.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC077404-539E-4ACB-9180-090744469E82}|CEsharp\\CEsharp.csproj|c:\\users\\bosbso\\onedrive\\\u6587\u6863\\github\\cesharp\\cesharp\\viewmodels\\deeprockcheat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC077404-539E-4ACB-9180-090744469E82}|CEsharp\\CEsharp.csproj|solutionrelative:cesharp\\viewmodels\\deeprockcheat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC077404-539E-4ACB-9180-090744469E82}|CEsharp\\CEsharp.csproj|d:\\code\\cesharp\\cesharp\\view\\deeprock.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{EC077404-539E-4ACB-9180-090744469E82}|CEsharp\\CEsharp.csproj|c:\\users\\bosbso\\onedrive\\\u6587\u6863\\github\\cesharp\\cesharp\\view\\deeprock.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{EC077404-539E-4ACB-9180-090744469E82}|CEsharp\\CEsharp.csproj|solutionrelative:cesharp\\view\\deeprock.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC077404-539E-4ACB-9180-090744469E82}|CEsharp\\CEsharp.csproj|d:\\code\\cesharp\\cesharp\\view\\deeprock.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC077404-539E-4ACB-9180-090744469E82}|CEsharp\\CEsharp.csproj|c:\\users\\bosbso\\onedrive\\\u6587\u6863\\github\\cesharp\\cesharp\\mauiprogramextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC077404-539E-4ACB-9180-090744469E82}|CEsharp\\CEsharp.csproj|solutionrelative:cesharp\\mauiprogramextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC077404-539E-4ACB-9180-090744469E82}|CEsharp\\CEsharp.csproj|c:\\users\\bosbso\\onedrive\\\u6587\u6863\\github\\cesharp\\cesharp\\view\\deeprock.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC077404-539E-4ACB-9180-090744469E82}|CEsharp\\CEsharp.csproj|solutionrelative:cesharp\\view\\deeprock.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\code\\CEsharp\\AppShell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AppShell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\code\\CEsharp\\AppShell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\code\\CEsharp\\View\\DeepRock.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:View\\DeepRock.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\code\\CEsharp\\View\\DeepRock.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\code\\CEsharp\\ViewModels\\DeepRockCheat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ViewModels\\DeepRockCheat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\code\\CEsharp\\ViewModels\\DeepRockCheat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\code\\CEsharp\\View\\DeepRock.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:View\\DeepRock.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\code\\CEsharp\\View\\DeepRock.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,99 +69,192 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DeepRock.xaml.cs",
-              "DocumentMoniker": "D:\\code\\CEsharp\\CEsharp\\View\\DeepRock.xaml.cs",
-              "RelativeDocumentMoniker": "CEsharp\\View\\DeepRock.xaml.cs",
-              "ToolTip": "D:\\code\\CEsharp\\CEsharp\\View\\DeepRock.xaml.cs",
-              "RelativeToolTip": "CEsharp\\View\\DeepRock.xaml.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAqwEoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T07:13:31.472Z",
+              "DocumentIndex": 1,
+              "Title": "CEsharp.WinUI",
+              "DocumentMoniker": "C:\\Users\\BOSBSO\\OneDrive\\\u6587\u6863\\GitHub\\CEsharp\\CEsharp.WinUI\\CEsharp.WinUI.csproj",
+              "RelativeDocumentMoniker": "CEsharp.WinUI\\CEsharp.WinUI.csproj",
+              "ToolTip": "C:\\Users\\BOSBSO\\OneDrive\\\u6587\u6863\\GitHub\\CEsharp\\CEsharp.WinUI\\CEsharp.WinUI.csproj",
+              "RelativeToolTip": "CEsharp.WinUI\\CEsharp.WinUI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-03T13:47:46.17Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Package.appxmanifest",
+              "DocumentMoniker": "C:\\Users\\BOSBSO\\OneDrive\\\u6587\u6863\\GitHub\\CEsharp\\CEsharp.WinUI\\Package.appxmanifest",
+              "RelativeDocumentMoniker": "CEsharp.WinUI\\Package.appxmanifest",
+              "ToolTip": "C:\\Users\\BOSBSO\\OneDrive\\\u6587\u6863\\GitHub\\CEsharp\\CEsharp.WinUI\\Package.appxmanifest",
+              "RelativeToolTip": "CEsharp.WinUI\\Package.appxmanifest",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001793|",
+              "WhenOpened": "2025-01-03T13:47:42.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\BOSBSO\\OneDrive\\\u6587\u6863\\GitHub\\CEsharp\\CEsharp.WinUI\\App.xaml.cs",
+              "RelativeDocumentMoniker": "CEsharp.WinUI\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\BOSBSO\\OneDrive\\\u6587\u6863\\GitHub\\CEsharp\\CEsharp.WinUI\\App.xaml.cs",
+              "RelativeToolTip": "CEsharp.WinUI\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T13:47:35.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\BOSBSO\\OneDrive\\\u6587\u6863\\GitHub\\CEsharp\\CEsharp.WinUI\\App.xaml",
+              "RelativeDocumentMoniker": "CEsharp.WinUI\\App.xaml",
+              "ToolTip": "C:\\Users\\BOSBSO\\OneDrive\\\u6587\u6863\\GitHub\\CEsharp\\CEsharp.WinUI\\App.xaml",
+              "RelativeToolTip": "CEsharp.WinUI\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-03T13:47:32.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Square44x44Logo.scale-200.png - PNG [88x88, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\BOSBSO\\OneDrive\\\u6587\u6863\\GitHub\\CEsharp\\CEsharp.WinUI\\Assets\\Square44x44Logo.scale-200.png",
+              "RelativeDocumentMoniker": "CEsharp.WinUI\\Assets\\Square44x44Logo.scale-200.png",
+              "ToolTip": "C:\\Users\\BOSBSO\\OneDrive\\\u6587\u6863\\GitHub\\CEsharp\\CEsharp.WinUI\\Assets\\Square44x44Logo.scale-200.png - PNG [88x88, 32 bit, PNG]",
+              "RelativeToolTip": "CEsharp.WinUI\\Assets\\Square44x44Logo.scale-200.png - PNG [88x88, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-01-03T13:47:29.373Z",
+              "EditorCaption": " - PNG [88x88, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CEsharp.csproj",
+              "DocumentMoniker": "C:\\Users\\BOSBSO\\OneDrive\\\u6587\u6863\\GitHub\\CEsharp\\CEsharp\\CEsharp.csproj",
+              "RelativeDocumentMoniker": "CEsharp\\CEsharp.csproj",
+              "ToolTip": "C:\\Users\\BOSBSO\\OneDrive\\\u6587\u6863\\GitHub\\CEsharp\\CEsharp\\CEsharp.csproj",
+              "RelativeToolTip": "CEsharp\\CEsharp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-03T12:31:45.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\BOSBSO\\OneDrive\\\u6587\u6863\\GitHub\\CEsharp\\CEsharp.WinUI\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "CEsharp.WinUI\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\BOSBSO\\OneDrive\\\u6587\u6863\\GitHub\\CEsharp\\CEsharp.WinUI\\MauiProgram.cs",
+              "RelativeToolTip": "CEsharp.WinUI\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T12:31:40.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAJwTAAAAAAAAAAAAwKoTAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-01-03T12:20:00.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MauiProgramExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\BOSBSO\\OneDrive\\\u6587\u6863\\GitHub\\CEsharp\\CEsharp\\MauiProgramExtensions.cs",
+              "RelativeDocumentMoniker": "CEsharp\\MauiProgramExtensions.cs",
+              "ToolTip": "C:\\Users\\BOSBSO\\OneDrive\\\u6587\u6863\\GitHub\\CEsharp\\CEsharp\\MauiProgramExtensions.cs",
+              "RelativeToolTip": "CEsharp\\MauiProgramExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T12:05:39.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeepRock.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\BOSBSO\\OneDrive\\\u6587\u6863\\GitHub\\CEsharp\\CEsharp\\View\\DeepRock.xaml.cs",
+              "RelativeDocumentMoniker": "CEsharp\\View\\DeepRock.xaml.cs",
+              "ToolTip": "C:\\Users\\BOSBSO\\OneDrive\\\u6587\u6863\\GitHub\\CEsharp\\CEsharp\\View\\DeepRock.xaml.cs",
+              "RelativeToolTip": "CEsharp\\View\\DeepRock.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T07:13:31.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "DeepRockCheat.cs",
-              "DocumentMoniker": "D:\\code\\CEsharp\\CEsharp\\ViewModels\\DeepRockCheat.cs",
+              "DocumentMoniker": "C:\\Users\\BOSBSO\\OneDrive\\\u6587\u6863\\GitHub\\CEsharp\\CEsharp\\ViewModels\\DeepRockCheat.cs",
               "RelativeDocumentMoniker": "CEsharp\\ViewModels\\DeepRockCheat.cs",
-              "ToolTip": "D:\\code\\CEsharp\\CEsharp\\ViewModels\\DeepRockCheat.cs",
+              "ToolTip": "C:\\Users\\BOSBSO\\OneDrive\\\u6587\u6863\\GitHub\\CEsharp\\CEsharp\\ViewModels\\DeepRockCheat.cs",
               "RelativeToolTip": "CEsharp\\ViewModels\\DeepRockCheat.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAuwHEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T05:59:18.5Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "DeepRock.xaml",
-              "DocumentMoniker": "D:\\code\\CEsharp\\CEsharp\\View\\DeepRock.xaml",
+              "DocumentMoniker": "C:\\Users\\BOSBSO\\OneDrive\\\u6587\u6863\\GitHub\\CEsharp\\CEsharp\\View\\DeepRock.xaml",
               "RelativeDocumentMoniker": "CEsharp\\View\\DeepRock.xaml",
-              "ToolTip": "D:\\code\\CEsharp\\CEsharp\\View\\DeepRock.xaml",
+              "ToolTip": "C:\\Users\\BOSBSO\\OneDrive\\\u6587\u6863\\GitHub\\CEsharp\\CEsharp\\View\\DeepRock.xaml",
               "RelativeToolTip": "CEsharp\\View\\DeepRock.xaml",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAuwBsAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-03T05:59:14.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T05:59:14.36Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "AppShell.xaml",
               "DocumentMoniker": "D:\\code\\CEsharp\\AppShell.xaml",
-              "RelativeDocumentMoniker": "AppShell.xaml",
               "ToolTip": "D:\\code\\CEsharp\\AppShell.xaml",
-              "RelativeToolTip": "AppShell.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-01-03T04:43:03.573Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "DeepRock.xaml.cs",
               "DocumentMoniker": "D:\\code\\CEsharp\\View\\DeepRock.xaml.cs",
-              "RelativeDocumentMoniker": "View\\DeepRock.xaml.cs",
               "ToolTip": "D:\\code\\CEsharp\\View\\DeepRock.xaml.cs",
-              "RelativeToolTip": "View\\DeepRock.xaml.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAmwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T04:40:39.044Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
               "Title": "DeepRockCheat.cs",
               "DocumentMoniker": "D:\\code\\CEsharp\\ViewModels\\DeepRockCheat.cs",
-              "RelativeDocumentMoniker": "ViewModels\\DeepRockCheat.cs",
               "ToolTip": "D:\\code\\CEsharp\\ViewModels\\DeepRockCheat.cs",
-              "RelativeToolTip": "ViewModels\\DeepRockCheat.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAiwHkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T04:22:21.868Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 15,
               "Title": "DeepRock.xaml",
               "DocumentMoniker": "D:\\code\\CEsharp\\View\\DeepRock.xaml",
-              "RelativeDocumentMoniker": "View\\DeepRock.xaml",
               "ToolTip": "D:\\code\\CEsharp\\View\\DeepRock.xaml",
-              "RelativeToolTip": "View\\DeepRock.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-01-03T04:21:08.043Z"
             }

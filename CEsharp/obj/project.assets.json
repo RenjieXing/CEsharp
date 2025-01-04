@@ -1514,23 +1514,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\14798\\.nuget\\packages\\": {},
-    "D:\\VSData\\SDK\\NuGetPackages": {}
+    "C:\\Users\\BOSBSO\\.nuget\\packages\\": {},
+    "D:\\VSshared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\code\\CEsharp\\CEsharp\\CEsharp.csproj",
+      "projectUniqueName": "C:\\Users\\BOSBSO\\OneDrive\\文档\\GitHub\\CEsharp\\CEsharp\\CEsharp.csproj",
       "projectName": "CEsharp",
-      "projectPath": "D:\\code\\CEsharp\\CEsharp\\CEsharp.csproj",
-      "packagesPath": "C:\\Users\\14798\\.nuget\\packages\\",
-      "outputPath": "D:\\code\\CEsharp\\CEsharp\\obj\\",
+      "projectPath": "C:\\Users\\BOSBSO\\OneDrive\\文档\\GitHub\\CEsharp\\CEsharp\\CEsharp.csproj",
+      "packagesPath": "C:\\Users\\BOSBSO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\BOSBSO\\OneDrive\\文档\\GitHub\\CEsharp\\CEsharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\VSData\\SDK\\NuGetPackages"
+        "D:\\VSshared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\14798\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\BOSBSO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
